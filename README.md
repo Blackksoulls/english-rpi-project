@@ -4,6 +4,9 @@ Project unfinished, it's highly experimental and work mainly on wifi cards > 201
 ## Thanks
 Thanks to [bmegli](https://github.com/bmegli) for the [wifi-scan](https://github.com/bmegli/wifi-scan) Library.
 
+## Usage
+You can see the instructions and download the files in the [release page](https://github.com/joxcat/english-rpi-project/releases/) of this project.
+
 ## To build
 You only need to do a `make B=ss` to build it, the release will be in the bin folder.
 
