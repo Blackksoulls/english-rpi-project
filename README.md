@@ -3,6 +3,7 @@ Project unfinished, it's highly experimental and work mainly on wifi cards > 201
 
 ## Thanks
 Thanks to [bmegli](https://github.com/bmegli) for the [wifi-scan](https://github.com/bmegli/wifi-scan) Library.
+Thanks to Colin Cinquino another member of the group that made the interface using Tkinter and python.
 
 ## Usage
 You can see the instructions and download the files in the [release page](https://github.com/joxcat/english-rpi-project/releases/) of this project.
